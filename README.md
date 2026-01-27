@@ -11,6 +11,7 @@ An unofficial, modular Discord bot designed for **Hytale** communities and guild
     * **Visual Embeds:** Automatically fetches high-quality images, descriptions, and links from *hytalewiki.org*.
     * **Commands:**
         * `/find <anything from the game>`: Displays information.
+        * `/skin <player> <multiple options>`: Displays player skin.
 
 * **⚡ Modern Architecture:**
     * Written in **TypeScript**.
@@ -76,9 +77,6 @@ As Hytale is still in development (early access), some features are planned for 
 - [ ] `/server <ip>` :
     - Status: ⏸️ **On Hold**.
 Reason: Waiting for Hytale's official server protocol documentation (QUIC/UDP) to accurately query player counts and MOTD.
-- [ ] `/skin <player>`:
-    - Status: ⏸️ **On Hold**.
-Reason: Waiting for the official Hytale Avatar API to fetch player models.
 
 ## 🤝 Contributing
 
